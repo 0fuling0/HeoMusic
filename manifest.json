@@ -1,8 +1,8 @@
 {
   "name": "Fuling的歌单",
   "short_name": "Fuling的歌单",
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "#E8F5E9",
+  "background_color": "#E8F5E9",
   "display": "fullscreen",
   "scope": "/",
   "start_url": "/",
